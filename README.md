@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Hanane Nadi
 #### A passionate data engineering student from Morocco
-![A passionate data engineering student from Morocco](file:///C:/Users/ADMIN/Desktop/banner.png)
+![A passionate data engineering student from Morocco](![banner](https://github.com/HananeNadi/HananeNadi/assets/127529925/527964ba-49bc-4a9d-95fd-0e224b24b433)
+)
 
 I'm a data engineering student at ENSAH, passionate about leveraging technical skills to solve complex problems and explore data-driven insights.
 
