@@ -1,14 +1,18 @@
-### Hi there 👋, I'am Hanane Nadi
-#### A passionate data engineering student from Morocco
+### Hi there 👋
 <img alt="Hello world" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" style="max-width: 100%;">
 
-I'm a data engineering student at ENSAH, passionate about leveraging technical skills to solve complex problems and explore data-driven insights.
+
+#### I'am Hanane Nadi a passionate data engineering student from Morocco
+I'm a passionate data engineering student at the National School of Applied Sciences of Al Hoceima (ENSAH), driven by the application of technical and analytical skills to solve complex problems. My strong academic background in data engineering, combined with my enthusiasm for data exploration, fuels my motivation.
+
+
 
 ## Interests 
 - Data Engineering
 - Data Science 
 - Machine Learning / Deep Learning / NLP
 - Big data Technologies
+
 
 
 <h3 align="left">Languages and Tools:</h3>
