@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Hanane Nadi
+### Hi there 👋, I'am Hanane Nadi
 #### A passionate data engineering student from Morocco
 <img alt="Hello world" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" style="max-width: 100%;">
 
