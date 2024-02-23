@@ -21,7 +21,9 @@ I'm a passionate data engineering student at the National School of Applied Scie
 
 
 📫 Feel free to reach out via email or Linkedin to discuss potential collaborations or opportunities.
+
 **nadi.hanane01@gmail.com**
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hanane-nadi-32089a251//)  
  
 
