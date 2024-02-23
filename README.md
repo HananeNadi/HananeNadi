@@ -2,7 +2,7 @@
 <img alt="Hello world" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" style="max-width: 100%;">
 
 
-#### I'am Hanane Nadi a passionate data engineering student from Morocco
+#### I'am Hanane Nadi a data engineering student from Morocco
 I'm a passionate data engineering student at the National School of Applied Sciences of Al Hoceima (ENSAH), driven by the application of technical and analytical skills to solve complex problems. My strong academic background in data engineering, combined with my enthusiasm for data exploration, fuels my motivation.
 
 
